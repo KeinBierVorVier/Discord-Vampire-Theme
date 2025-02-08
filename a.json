@@ -81,7 +81,6 @@
     },
     "background": {
         "alpha": 5,
-        "url": "https://raw.githubusercontent.com/KeinBierVorVier/Discord-Vampire-Theme/refs/heads/main/vampire.png",
-        "chat": "https://raw.githubusercontent.com/KeinBierVorVier/Discord-Vampire-Theme/refs/heads/main/vampire.png"
+        "url": "https://raw.githubusercontent.com/KeinBierVorVier/Discord-Vampire-Theme/refs/heads/main/vampire.png"
     }
 }
