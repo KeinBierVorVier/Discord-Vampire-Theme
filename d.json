@@ -1,0 +1,191 @@
+{
+    "name": "Vampire Purple",
+    "description": "Dark Anime Vampire Theme - Full Black with Purple Accents.",
+    "color": "#000000",
+    "authors": [
+        {
+            "name": "sirox",
+            "id": "497108999049576448"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff",
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#c8c8c8",
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#800080",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#800080",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#800080",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#800080",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#363636",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#800080",
+            "#800080"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#800080",
+            "#800080"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#800080",
+            "#800080"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000",
+            "#000000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#201E25",
+            "#201E25"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#000000",
+            "#000000"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#201E25",
+            "#201E25"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000000",
+            "#000000"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#000000",
+            "#000000"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000",
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c8c8c8",
+            "#c8c8c8"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000",
+            "#000000"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000000",
+            "#000000"
+        ],
+        "BG_BACKDROP": [
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000",
+            "#000000"
+        ],
+        "TEXT_LINK": [
+            "#800080",
+            "#800080"
+        ],
+        "KEYBOARD": [
+            "#000000",
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#800080",
+            "#800080"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#000000",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#808080",
+        "PRIMARY_500": "#800080",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_10": "#828282",
+        "PLUM_11": "#232223",
+        "PLUM_13": "#eb99a1",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000",
+        "BRAND_260": "#8a94a8",
+        "BRAND_500": "#800080",
+        "BRAND_900": "#000000",
+        "BRAND": "#8a94a8",
+        "YELLOW_300": "#ffffff",
+        "GREEN_600": "#ffffff",
+        "DANGER": "#800080",
+        "RED": "#800080"
+    },
+    "background": {
+        "alpha": 5,
+        "url": "https://raw.githubusercontent.com/KeinBierVorVier/Discord-Vampire-Theme/main/c.png"
+    },
+    "spec": 2
+}
