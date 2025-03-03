@@ -43,47 +43,47 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#120c0e",
-            "#ffffff"
+            "#120c0e"
         ],
         "BACKGROUND_SECONDARY": [
             "#170c0e",
-            "#FFFFFF"
+            "#170c0e"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#170c0e",
-            "#FFFFFF"
+            "#170c0e"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
             "#DA4453",
-            "#FFFFFF"
+            "#DA4453"
         ],
         "BACKGROUND_FLOATING": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000",
-            "#FFFFFF"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#120c0e",
-            "#ffffff"
+            "#120c0e"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#120c0e",
-            "#ffffff"
+            "#120c0e"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#DA4453",
-            "#FFFFFF"
+            "#DA4453"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#DA4453",
-            "#FFFFFF"
+            "#DA4453"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#FFFFFF",
@@ -94,61 +94,63 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent",
-            "#FFFFFF"
+            "#000000",
+            "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#201E25",
-            "#FFFFFF"
+            "#201E25"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent",
-            "#FFFFFF"
+            "#000000",
+            "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#201E25",
-            "#FFFFFF"
+            "#201E25"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#FFFFFF",
-            "#FFFFFF"
+            "#000000",
+            "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111",
-            "#FFFFFF"
+            "#111111"
         ],
         "CHAT_BACKGROUND": [
             "#120c0e",
-            "#FFFFFF"
+            "#120c0e"
         ],
         "CHANNELS_DEFAULT": [
             "#c8c8c8",
-            "#FFFFFF"
+            "#c8c8c8"
         ],
         "CARD_PRIMARY_BG": [
+            "#000000",
             "#000000"
         ],
         "BG_BASE_PRIMARY": [
             "#120c0e",
-            "#FFFFFF"
+            "#120c0e"
         ],
         "BG_BACKDROP": [
-            "#04010173"
+            "#040101"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#120c0e",
             "#120c0e"
         ],
         "TEXT_LINK": [
             "#DA4453",
-            "#FFFFFF"
+            "#DA4453"
         ],
         "KEYBOARD": [
             "#120c0e",
-            "#FFFFFF"
+            "#120c0e"
         ],
         "CHANNEL_ICON": [
             "#DA4453",
-            "#FFFFFF"
+            "#DA4453"
         ]
     },
     "rawColors": {
@@ -179,13 +181,11 @@
         "YELLOW_300": "#ffffff",
         "GREEN_600": "#ffffff",
         "DANGER": "#DA4453",
-        "RED": "848484"
-    },
-    "unsafe_colors": {
-        "CHAT_GREY": "#120c0e"
+        "RED": "#848484"
     },
     "background": {
         "alpha": 5,
-        "url": "https://raw.githubusercontent.com/KeinBierVorVier/Discord-Vampire-Theme/refs/heads/main/vampire.png"
-    }
+        "url": "https://raw.githubusercontent.com/KeinBierVorVier/Discord-Vampire-Theme/main/vampire.png"
+    },
+    "spec": 2
 }
