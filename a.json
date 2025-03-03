@@ -1,6 +1,6 @@
 {
-    "name": "Vampire",
-    "description": "Dark Anime Vampire Theme.",
+    "name": "Vampire Purple",
+    "description": "Dark Anime Vampire Theme - Purple Edition.",
     "color": "#111111",
     "authors": [
         {
@@ -22,19 +22,19 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#DA4453",
+            "#800080",
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#DA4453",
+            "#800080",
             "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#DA4453",
+            "#800080",
             "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#DA4453",
+            "#800080",
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
@@ -58,8 +58,8 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#DA4453",
-            "#DA4453"
+            "#800080",
+            "#800080"
         ],
         "BACKGROUND_FLOATING": [
             "#000000",
@@ -78,12 +78,12 @@
             "#120c0e"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#DA4453",
-            "#DA4453"
+            "#800080",
+            "#800080"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#DA4453",
-            "#DA4453"
+            "#800080",
+            "#800080"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#FFFFFF",
@@ -141,16 +141,16 @@
             "#120c0e"
         ],
         "TEXT_LINK": [
-            "#DA4453",
-            "#DA4453"
+            "#800080",
+            "#800080"
         ],
         "KEYBOARD": [
             "#120c0e",
             "#120c0e"
         ],
         "CHANNEL_ICON": [
-            "#DA4453",
-            "#DA4453"
+            "#800080",
+            "#800080"
         ]
     },
     "rawColors": {
@@ -160,7 +160,7 @@
         "PRIMARY_300": "#B6B6B6",
         "PRIMARY_360": "#C8C8C8",
         "PRIMARY_400": "#808080",
-        "PRIMARY_500": "#DA4453",
+        "PRIMARY_500": "#800080",
         "PRIMARY_600": "#120c0e",
         "PRIMARY_630": "#1a1b21",
         "PRIMARY_700": "#101010",
@@ -175,13 +175,13 @@
         "PLUM_20": "#120c0e",
         "PLUM_22": "#120c0e",
         "BRAND_260": "#8a94a8",
-        "BRAND_500": "#DA4453",
+        "BRAND_500": "#800080",
         "BRAND_900": "#120c0e",
         "BRAND": "#8a94a8",
         "YELLOW_300": "#ffffff",
         "GREEN_600": "#ffffff",
-        "DANGER": "#DA4453",
-        "RED": "#848484"
+        "DANGER": "#800080",
+        "RED": "#800080"
     },
     "background": {
         "alpha": 5,
